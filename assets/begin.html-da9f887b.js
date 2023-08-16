@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4adce42f","path":"/docs/LeetCode/begin.html","title":"begin","lang":"en-US","frontmatter":{"title":"begin","date":"2023/09/21","tags":["LeetCode"],"categories":["算法"]},"headers":[{"level":2,"title":"学习算法的笔记","slug":"学习算法的笔记","link":"#学习算法的笔记","children":[]}],"git":{},"filePathRelative":"docs/LeetCode/begin.md"}');export{e as data};

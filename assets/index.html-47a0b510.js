@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"en-US","frontmatter":{"home":true,"modules":["BannerBrand","Blog","MdContent","Footer"],"bannerBrand":{"bgImage":"/bg.svg","title":"leikooo 的个人博客","description":"分享编程相关的知识","tagline":null},"isShowTitleInHome":true,"actionText":"About"},"headers":[],"git":{},"filePathRelative":"README.md"}');export{e as data};
